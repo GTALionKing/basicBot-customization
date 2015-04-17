@@ -1,0 +1,13 @@
+{
+    "1":{
+        "mid": "1:ShitsongID1"
+    },
+    "2":{
+        "title": "This is a Shit song",
+        "author": "The Shit band",
+        "mid": "1:ShitsongID2"
+    },
+    "3":{
+        "mid": "1:ShitsongID3"
+    }
+}
